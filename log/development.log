@@ -622,3 +622,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 21ms (Views: 8.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 142.255.123.99 at 2020-11-18 17:36:00 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.6ms)
+Completed 200 OK in 5ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
