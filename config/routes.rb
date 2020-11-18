@@ -3,5 +3,5 @@ Rails.application.routes.draw do
   def about
     render "some_page"
   end
-  
+
 end
